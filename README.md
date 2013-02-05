@@ -1,3 +1,7 @@
+## nodejs implementation: pinyin with tones
+
+<https://github.com/hotoo/node-pinyin>
+
 ## somebody already did it
 
 <http://www.kawa.net/works/cantonese/canton.cgi>
